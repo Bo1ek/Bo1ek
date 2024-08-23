@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h3 align="center">I'm a passionate fullstack Developer.I am keen on working in a group although independent work is not a problem for me. My main target is to develop myself all the time and that is why I want to develop new skills at every possible opportunity.I am nice, communicative and ambitious young person focused on reaching my goals.</h3>
 
-<!--
-**Bo1ek/Bo1ek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bo1ek&label=Profile%20views&color=0e75b6&style=plastic" alt="bo1ek" /> </p>
 
-Here are some ideas to get you started:
+<div align="center">
+   🌱 I’m currently learning: **.Net and React**
+  
+ 🔭 I’m currently working on: [HomeManagement](https://github.com/Bo1ek/HomeManagement)
+  
+ 📫 How to reach me: **https://www.linkedin.com/in/jakub-bolek-538406233/**
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center"> My Tech Stack:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git,github,postman,py" /><br/>
+     <img src="https://skillicons.dev/icons?i=react,ts,html,css,bootstrap" />
+  </a>
+</p>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bo1ek&show_icons=true&locale=en&layout=compact" alt="bo1ek" />
+  </p>
+</div>
