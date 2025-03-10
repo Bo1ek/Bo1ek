@@ -20,9 +20,4 @@
   </a>
 </p>
 
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bo1ek&show_icons=true&locale=en&layout=compact" alt="bo1ek" />
-  </p>
-</div>
 
