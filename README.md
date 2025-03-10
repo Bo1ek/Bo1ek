@@ -6,7 +6,7 @@
 <div align="center">
    🌱 I’m currently learning: **.Net and React**
   
- 🔭 I’m currently working on: [TaskFleetFrontend](https://github.com/Bo1ek/TaskFleetFrontend) and [TaskFleet](https://github.com/Bo1ek/TaskFleet)
+ 🔭 I’m currently working on: [HomeManagement](https://github.com/Ariasso/HomeManagement)
   
  📫 How to reach me: **https://www.linkedin.com/in/jakub-bolek-538406233/**
 </div>
