@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bo1ek&label=Profile%20views&color=0e75b6&style=plastic" alt="bo1ek" /> </p>
 
 <div align="center">
-   🌱 I’m currently learning: **.Net and React**
+   🌱 I’m currently learning: ** Python **
   
  🔭 I’m currently working on: [HomeManagement](https://github.com/Ariasso/HomeManagement)
   
