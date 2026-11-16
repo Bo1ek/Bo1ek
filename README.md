@@ -6,7 +6,7 @@
 <div align="center">
    🌱 I’m currently learning:<b> TypeScript and JavaScript </b>
   
- 🔭 I’m currently working on: [HomeManagement](https://github.com/Ariasso/HomeManagement)
+ 🔭 I’m currently working on: [Fitness App]([https://github.com/Ariasso/HomeManagement](https://github.com/Ariasso/Fitnesiaki))
   
  📫 How to reach me: **https://www.linkedin.com/in/jakub-bolek-538406233/**
 </div>
